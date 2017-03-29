@@ -1,8 +1,8 @@
 # PillsWar
 Tiny 3rd person shooter game with Unity3D. I made this small game when I was taking some Unity's classes.
-I know there is some bugs/weird comportments and I am very sorry about this.
+This is a game without any pretention, just a small try on Unity !
 
-[See live !](https://kevinbulme.github.io/PillsWar/)
+[Try it !](https://kevinbulme.github.io/PillsWar/)
 
 
 
